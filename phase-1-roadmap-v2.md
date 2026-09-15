@@ -63,7 +63,7 @@
 ## Week 4 — Exceptions + Checkpoint 1
 
 **Session 1** — [DONE] CS50P Lecture 3, type along
-**Session 2** — [ ] PSet 3 (all)
+**Session 2** — [DONE] PSet 3 (all)
 **Session 3** — [ ] Add `try/except` to `word_count.py` (missing/empty file) · [ ] 2 Exercism exercises
 **Session 4** — [ ] pgexercises "Joins and Subqueries" (first half)
 **Session 5 — CHECKPOINT (closed book, 15 min each)** — [ ] FizzBuzz cold · [ ] Dict word-counter cold · [ ] Gaps → log · [ ] Month-1 reflection in log
