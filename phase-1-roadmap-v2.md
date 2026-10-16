@@ -72,10 +72,10 @@
 
 ## Week 5 — Libraries, pip, venv
 
-**Session 1** — [ ] CS50P Lecture 4, type along
+**Session 1** — [DONE] CS50P Lecture 4, type along
 **Session 2** — [ ] PSet 4: 3 problems
 **Session 3** — [ ] https://realpython.com/python-virtual-environments-a-primer/ → create venv, `pip install requests`, save commands to `cheatsheets/venv.md`
-**Session 4** — [ ] pgexercises: finish Joins · [ ] Optional sql-practice warm-up
+**Session 4** — [DONE] pgexercises: finish Joins · [ ] Optional sql-practice warm-up
 **Session 5** — [ ] `currency-tracker` repo: GET https://api.frankfurter.app/latest?from=USD&to=EGP, print the rate · [ ] Log
 
 ---
